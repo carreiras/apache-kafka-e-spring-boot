@@ -1,4 +1,4 @@
-package carreiras.com.github.shopapi.events;
+package carreiras.com.github.shopapi.kafka;
 
 import carreiras.com.github.shopapi.dto.ShopDTO;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
